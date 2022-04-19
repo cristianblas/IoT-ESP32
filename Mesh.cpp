@@ -7,7 +7,7 @@
 #define   Puerto_Mesh       5555
 
 #define   ID_Wifi    "BLAS"
-#define   Clave_Wifi "b214135713"
+#define   Clave_Wifi "**********"
 #define HOSTNAME "HTTP_BRIDGE"
 void receivedCallback( const uint32_t &from, const String &msg );
 painlessMesh  mesh;             //Instancia de la clase mesh.cpp
